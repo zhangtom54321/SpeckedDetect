@@ -22,4 +22,4 @@ We learnt a lot about TensorFlow and convolutional neural networks in Python. We
 ## What's next for SpeckedDetect
 We plan to use more data to train our convolutional neural network to make it more accurate. We want to try data from other sources and datasets to reduce the risk of overfitting to our dataset from Kaggle. We also want to actually release our app on the Google Play Store and eventually develop the app on the App Store.
 
-Learn more about our project at the [Devpost link](https://devpost.com/software/speckeddetect)
+Learn more about our project at the [Devpost link](https://devpost.com/software/speckeddetect).
